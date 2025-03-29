@@ -1,0 +1,7 @@
+{"level":"info","message":"Operation: div, Numbers: 5, 5, Result: 1","service":"calculator-microservice"}
+{"level":"info","message":"Operation: add, Numbers: 5, 5, Result: 10","service":"calculator-microservice"}
+{"level":"info","message":"Operation: sub, Numbers: 10, 5, Result: 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation: mul, Numbers: 4, 3, Result: 12","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 10, 2, Result: 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 10, 0, Result: Cannot divide by zero","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input","service":"calculator-microservice"}
