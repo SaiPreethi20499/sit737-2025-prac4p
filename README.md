@@ -21,7 +21,7 @@ Ensure you have the following installed:
 Start by cloning the repository from GitHub to your local machine:
 
 ```sh
-git clone https://github.com/username/sit737-2025-prac4p.git
+git clone https://github.com/SaiPreethi20499/sit737-2025-prac4p
 cd sit737-2025-prac4p
 ```
 This will download the project and navigate to the project directory.
@@ -86,6 +86,6 @@ Once you've made changes to the code, you can push your changes to GitHub.
 
 ```sh
 git add .
-git commit -m "Initial commit for calculator microservice"
+git commit -m "Implemented calculator microservice with Winston logging"
 git push -u origin main
 ```
